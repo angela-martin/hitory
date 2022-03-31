@@ -1,5 +1,4 @@
 Hitori puzzle
-Ángela María Martín García	login: angela.martin
 
 Para compilar el código:
 
